@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://fast-api-todo-e9rg.onrender.com/';
 
 // Create axios instance
 const api = axios.create({
